@@ -1,0 +1,2 @@
+brandon:x:1003:1004:,,,:/home/brandon:/bin/bash
+mayank_pandey01:x:1004:1005::/var/www/html/labs/mayank_pandey01:/usr/sbin/nologin
